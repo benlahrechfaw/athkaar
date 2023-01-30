@@ -10,7 +10,7 @@ html, body {
 }
 
 .slide {
-  font-size: 2rem;
+
 
     background-color: rgb(109, 194, 165);
     width: 100%;
@@ -31,13 +31,13 @@ ul{
   margin: 0;
   padding: 0;
   list-style: none;  
-  font-size: 2em;
+  font-size: 2rem;
   text-align: center;
 }
 
 .toggle {
 
-    font-size: 3rem;
+    font-size: 2rem;
     display: flex;
     justify-content: center;
     align-self: flex-end;
